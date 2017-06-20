@@ -1,0 +1,17 @@
+{
+  "name": "sunhj-js",
+  "version": "1.0.0",
+  "description": "sunhj common js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunhj",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.6.2",
+    "orm": "^3.1.0",
+    "redis": "^2.6.2",
+    "request": "^2.30.0"
+  }
+}
